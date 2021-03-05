@@ -27,5 +27,11 @@ int WinMain(
 		TEXT("开始学习Windows编程"),
 		TEXT("消息对话框"),
 		MB_OK);
+
+	MessageBox(NULL,
+		TEXT("hello Windows！"),
+		TEXT("对话框"),
+		MB_OK);
+
 	return 0;
 }
