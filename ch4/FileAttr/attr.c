@@ -193,3 +193,5 @@ int main(int argc, PCHAR argv[])
 	SetFileHiddenAndReadonly(argv[2]);
 	return 0;
 }
+
+
